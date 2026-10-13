@@ -1,0 +1,10 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+rembg[gpu,cli]==2.0.64
+onnxruntime==1.20.1
+torchvision>=0.18.0
+pillow>=10.4.0
+numpy>=1.26.4
+python-multipart>=0.0.18
+opencv-python-headless>=4.10.0
+pydantic>=2.10.0
