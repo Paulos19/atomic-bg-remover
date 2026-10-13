@@ -1,4 +1,4 @@
-package com.atomic.bgremover
+    var serverUrl by remember { mutableStateOf("https://atomic-bg.khdya3.easypanel.host") }package com.atomic.bgremover
 
 import android.content.Context
 import android.graphics.Bitmap
